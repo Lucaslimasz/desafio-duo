@@ -43,7 +43,6 @@ git clone https://github.com/Lucaslimasz/desafio-duo.git
 yarn ou npm install
 
 # Para startar o projeto utilize
-precisará de 2 terminais<br />
+Será necessário 2 terminais<br />
 1º terminal - yarn start ou npm start<br />
 2º terminal - yarn server ou npm server `- para rodar a fake api`
-`
