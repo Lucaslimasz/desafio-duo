@@ -10,9 +10,8 @@
 
 ## 💻 Projeto
 
-O projeto foi desenvolvido para realizar um desafio 🔥
-Desafio:
-Construir um sistema consumindo informações de uma fake-api,
+O projeto foi desenvolvido para realizar um desafio 🔥 
+Desafio: Construir um sistema consumindo informações de uma fake-api,
 seguindo um protótipo em alta fidelidade.
 
 ---
@@ -44,7 +43,7 @@ git clone https://github.com/Lucaslimasz/desafio-duo.git
 yarn ou npm install
 
 # Para startar o projeto utilize
-precisará de 2 terminais
-1º terminal - yarn start ou npm start
+precisará de 2 terminais<br />
+1º terminal - yarn start ou npm start<br />
 2º terminal - yarn server ou npm server `- para rodar a fake api`
 `
